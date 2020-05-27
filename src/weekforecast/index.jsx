@@ -27,7 +27,7 @@ componentDidMount(){
             return <h1>Loading...</h1>;
           }
           console.log(this.state.days)
-          console.log(json)
+         
         return(
             
             <>
